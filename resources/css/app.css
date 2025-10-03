@@ -1,0 +1,14 @@
+.for-post{
+    gap: .5rem 0rem;
+    display: flex;
+    flex-direction: column;
+    margin: 2rem auto 0 auto;
+    width: 30%;
+
+}
+
+.for-group{
+    display: flex;
+    flex-direction: column;
+    
+}
